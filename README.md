@@ -1,2 +1,31 @@
-# coffee-shop-sales-dashboard
-Designed and built an end-to-end Power BI dashboard using SQL for data cleaning, transformation, and analysis, delivering actionable insights on sales performance, customer trends, and business growth through dynamic and interactive visualizations.
+
+# ☕ Coffee Shop Sales Dashboard
+
+## 📊 Project Overview
+This project analyzes coffee shop sales data using SQL and Power BI to generate meaningful business insights.
+
+## 📌 Problem Statement
+The goal of this project is to analyze sales performance and build an interactive dashboard to track key metrics like sales, orders, and quantity.
+
+## 🛠 Tools Used
+- SQL
+- Power BI
+
+## 📈 Key Metrics
+- Total Sales
+- Total Orders
+- Total Quantity Sold
+- Month-over-Month Growth
+
+## 📊 Features
+- Sales trend analysis
+- Product category insights
+- Store location analysis
+- Weekday vs Weekend comparison
+- Heatmap for daily and hourly sales
+
+## 📸 Dashboard Preview
+(Add image here after upload)
+
+## 🚀 Conclusion
+This dashboard helps in understanding business performance and supports data-driven decision-making.
