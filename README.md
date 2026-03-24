@@ -25,7 +25,7 @@ The goal of this project is to analyze sales performance and build an interactiv
 - Heatmap for daily and hourly sales
 
 ## 📸 Dashboard Preview
-![Dashboard]([https://github.com/Arunthathi1212/coffee-shop-sales-dashboard/blob/main/Screenshot%20(4).png])
+![Dashboard](https://github.com/Arunthathi1212/coffee-shop-sales-dashboard/blob/main/Coffee%20Shop%20Sales.png)
 
 ## 🚀 Conclusion
 This dashboard helps in understanding business performance and supports data-driven decision-making.
